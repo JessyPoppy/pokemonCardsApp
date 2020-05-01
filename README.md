@@ -1,2 +1,0 @@
-# pokemonCardsApp
-Created with CodeSandbox
